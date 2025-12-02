@@ -1,0 +1,1 @@
+das Script berechnet den Wert des Inhalts von bestimmten Truhen von den Spiel Stardew Valley und rechnet aus wann man theoretisch 999.999 Credits hat. Das ist laut Anzeige die Maximale Summe an Credits die man haben kann.
