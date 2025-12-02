@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
 import math
 
-#Beispielpfad fuer ein Savegame
-#C:\Users\beaves\AppData\Roaming\StardewValley\Saves\beaves_400504783\beaves_400504783
-savegame = "beaves_400504783\\beaves_400504783"
+savegame = "C:\\Users\\[nutzername]\\AppData\\Roaming\\StardewValley\\Saves\\[spielername]_XXXXXXXXX\\[spielername]_XXXXXXXXX"
 
 def setData(res):
 	#einzelne items suchen und ausrechnen wie viel wert die sind
